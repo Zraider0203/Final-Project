@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+    color: rgb(4, 4, 87);
+    text-align: center;
+}
+
+input{
+    background-color: blueviolet;
+    color: black;
+    padding: 7px;
+    margin: 2px;
+}
